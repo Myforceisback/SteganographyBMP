@@ -1,1 +1,2 @@
 # SteganographyBMP
+Проект не закончен(
