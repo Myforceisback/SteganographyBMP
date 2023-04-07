@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\PSU\3 course\2\MZKS\LW4\LW4\Source.cpp(368,13): warning C4244: инициализация: преобразование "LONGLONG" в "INT", возможна потеря данных
+D:\PSU\3 course\2\MZKS\LW4\LW4\Source.cpp(537): warning C4715: Check: значение возвращается не при всех путях выполнения
+  LW4.vcxproj -> D:\PSU\3 course\2\MZKS\LW4\Debug\LW4.exe
